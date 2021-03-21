@@ -2,6 +2,12 @@
 
 This is a discord bot that converts currency between USD and RMB.
 
+## Credentials
+
+Remember to put `DISCORD_TOKEN` and `DISCORD_GUILD` in your `.env` file.  
+
+If you have trouble setting up, please refer to this [document](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/).
+
 ## To have things working alone in this repo
 	
 	```console

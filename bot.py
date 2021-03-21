@@ -5,7 +5,6 @@ import json
 
 import requests as rq
 import discord
-# from discord.ext import commands
 from dotenv import load_dotenv
 
 from curr import get_usd_rmb_currency, get_rmb_usd_currency
