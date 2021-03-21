@@ -15,19 +15,19 @@ If you have trouble setting up, please refer to this [document](https://www.free
 	$ python3 -m venv env
 	$ source env/bin/activate
 	$ pip install pip-tools
-	(env) $ pip-sync
+	(env) $ pip-sync  
   ```  
 
-    or just `pip install -r requirements.txt`.  
+or just `pip install -r requirements.txt`.  
 	
 ## comments in discord  
   
-    - `!rmb 100`: convert $100 RMB to USD.
-    sample result: `RMB 100.0 is equivalent to 15.3681 in USD`
+- `!rmb 100`: convert $100 RMB to USD.
+sample result: `RMB 100.0 is equivalent to 15.3681 in USD`
 
-    - `!usd 100`: convert $100 USD to RMB.
-    sample result: `USD 100.0 is equivalent to 650.7 in RMB`
+- `!usd 100`: convert $100 USD to RMB.
+sample result: `USD 100.0 is equivalent to 650.7 in RMB`
   
 ## Future plan  
   
-    - nothing much until needed.
+- nothing much until needed.
