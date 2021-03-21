@@ -6,18 +6,17 @@ This is a discord bot that converts currency between USD and RMB.
 
 Remember to put `DISCORD_TOKEN` and `DISCORD_GUILD` in your `.env` file.  
 
-If you have trouble setting up, please refer to this [document](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/).
+If you have trouble setting up, please refer to this [document](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/).  
 
 ## To have things working alone in this repo
-	
-	```console
+  ```console
 	$ git clone git@github.com:Gabriel1443/trademe-search-engine.git
 	$ cd trademe-search-engine
 	$ python3 -m venv env
 	$ source env/bin/activate
 	$ pip install pip-tools
 	(env) $ pip-sync
-	```
+  ```
 
     or just `pip install -r requirements.txt`.  
 	
